@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>The National Mall</string>
+		<key>Latitude</key>
+		<real>38.887161</real>
+		<key>Longitude</key>
+		<real>-77.03733099999999</real>
+		<key>Image</key>
+		<string>1.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Universal Orlando Resort</string>
+		<key>Latitude</key>
+		<real>28.474386</real>
+		<key>Longitude</key>
+		<real>-81.468193</real>
+		<key>Image</key>
+		<string>2.jpg</string>
+		<key>Sponsored</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Top of the Rock</string>
+		<key>Latitude</key>
+		<real>40.75906</real>
+		<key>Longitude</key>
+		<real>-73.97943100000001</real>
+		<key>Image</key>
+		<string>3.jpg</string>
+		<key>Sponsored</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>The High Line</string>
+		<key>Latitude</key>
+		<real>40.747993</real>
+		<key>Longitude</key>
+		<real>-74.00489</real>
+		<key>Image</key>
+		<string>4.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>El Capitan</string>
+		<key>Latitude</key>
+		<real>37.733952</real>
+		<key>Longitude</key>
+		<real>-119.637756</real>
+		<key>Image</key>
+		<string>5.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Raymond James Stadium</string>
+		<key>Latitude</key>
+		<real>27.975958</real>
+		<key>Longitude</key>
+		<real>-82.503693</real>
+		<key>Image</key>
+		<string>6.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Hoboken</string>
+		<key>Latitude</key>
+		<real>40.745255</real>
+		<key>Longitude</key>
+		<real>-74.034775</real>
+		<key>Image</key>
+		<string>7.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Katz&apos;s Delicatessen</string>
+		<key>Latitude</key>
+		<real>40.722195</real>
+		<key>Longitude</key>
+		<real>-73.98748000000001</real>
+		<key>Image</key>
+		<string>8.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Brooklyn Bridge Park</string>
+		<key>Latitude</key>
+		<real>40.699215</real>
+		<key>Longitude</key>
+		<real>-73.999039</real>
+		<key>Image</key>
+		<string>9.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>The Intrepid Sea, Air &amp; Space Museum</string>
+		<key>Latitude</key>
+		<real>40.764389</real>
+		<key>Longitude</key>
+		<real>-73.999786</real>
+		<key>Image</key>
+		<string>10.jpg</string>
+	</dict>
+</array>
+</plist>
